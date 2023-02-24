@@ -7,7 +7,6 @@
 <li>🚀 I'm 2023 External Relations Director at Zenit Aerospace.
 
 ## Languages you can communicate with me
-
 * 🇧🇷 Brazilian Portuguese - native
 * 🇺🇸 English - fluent
 * 🇪🇸 Spanish - intermediate
@@ -41,8 +40,8 @@
 [linkedin]: https://www.linkedin.com/in/ana-j%C3%BAlia-batista-de-souza-a506a91b2
 [gmail]: mailto:anaju.batsouza@gmail.com
 
-## My Stats 📊
-
+  
+### My Stats 📊
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=anajbsouza&show_icons=true&count_private=true&hide=stars,issues" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajbsouza&layout=compact" />
 
