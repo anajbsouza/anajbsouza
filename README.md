@@ -1,26 +1,48 @@
-## Sobre Mim :wave:
-Olá! Meu nome é Ana Julia, tenho 20 anos e sou desenvolvedora web full stack em formação pelo Curso Técnico Integrado da Driven Education com +1200 horas e +30 projetos práticos com as principais tecnologias Front-end e Back-end do mercado. Faço Engenharia de Software pela Universidade de Brasília (UnB).
+## Hey! What's up? :wave:
 
-#### Front-end:
+## About me
+<li>My name's Ana Júlia, I'm a Software Engineering student at Universidade de Brasília (UnB).
+<li> 💻 Currently, I'm studying to be a fullstack web developer at Driven Education.
+<li>I really enjoy learning new things, speacilly if they challenge me to go out of my comfort zone!
+<li>🚀 I'm 2023 External Relations Director at Zenit Aerospace.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://shields.io/badge/react-black?logo=react&style=flat-square)
-
-#### Ferramentas:
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Discord badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-
-## Tecnologias que estou estudando :books:
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-
-## Estatísticas :rocket:
+## Statistics 📊
 
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=anajbsouza&show_icons=true&count_private=true&hide=stars,issues" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajbsouza&layout=compact" />
+
+## Languages you can communicate with me
+
+* Brazilian Portuguese - native
+* English - fluent
+* Spanish - intermediate
+* German - novice
+
+## Programming Languages and Tools
+
+### Front-end
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+
+### Version control
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+
+### Productivity
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![Google Calendar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Calendar&color=4285F4&logo=Google+Calendar&logoColor=FFFFFF&label=)
+
+### Other languages I'm studying
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+## Contact me at:
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ana-j%C3%BAlia-batista-de-souza-a506a91b2
+
+
+
