@@ -1,15 +1,15 @@
 # Hey! What's up? 👋😁
 
+## Statistics 📊
+
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=anajbsouza&show_icons=true&count_private=true&hide=stars,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajbsouza&layout=compact" />
+
 ## About me 😎👈
 <li>My name's Ana Júlia, I'm a Software Engineering student at Universidade de Brasília (UnB).
 <li> 💻 Currently, I'm studying to be a fullstack web developer at Driven Education.
 <li>I really enjoy learning new things, speacilly if they challenge me to go out of my comfort zone!
 <li>🚀 I'm 2023 External Relations Director at Zenit Aerospace.
-
-## Statistics 📊
-
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=anajbsouza&show_icons=true&count_private=true&hide=stars,issues" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajbsouza&layout=compact" />
 
 ## Languages you can communicate with me
 
