@@ -1,6 +1,6 @@
-# Hey! What's up? 
+# Hey! What's up? 👋😁
 
-## About me
+## About me 😎👈
 <li>My name's Ana Júlia, I'm a Software Engineering student at Universidade de Brasília (UnB).
 <li> 💻 Currently, I'm studying to be a fullstack web developer at Driven Education.
 <li>I really enjoy learning new things, speacilly if they challenge me to go out of my comfort zone!
