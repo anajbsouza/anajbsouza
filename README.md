@@ -7,10 +7,10 @@
 <li>🚀 I'm 2023 External Relations Director at Zenit Aerospace.
 
 ## Languages you can communicate with me
-* 🇧🇷 Brazilian Portuguese - native
-* 🇺🇸 English - fluent
-* 🇪🇸 Spanish - intermediate
-* 🇩🇪 German - novice
+<li>🇧🇷 Brazilian Portuguese - native
+<li>🇺🇸 English - fluent
+<li>🇪🇸 Spanish - intermediate
+<li>🇩🇪 German - novice
 
 ## Programming Languages and Tools
 
@@ -30,7 +30,7 @@
 ![Google Calendar](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Calendar&color=4285F4&logo=Google+Calendar&logoColor=FFFFFF&label=)
 
 #### Other languages I'm studying
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## Contact me at:
