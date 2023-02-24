@@ -1,10 +1,5 @@
 # Hey! What's up? 👋😁
 
-## Statistics 📊
-
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=anajbsouza&show_icons=true&count_private=true&hide=stars,issues" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajbsouza&layout=compact" />
-
 ## About me 😎👈
 <li>My name's Ana Júlia, I'm a Software Engineering student at Universidade de Brasília (UnB).
 <li> 💻 Currently, I'm studying to be a fullstack web developer at Driven Education.
@@ -46,5 +41,8 @@
 [linkedin]: https://www.linkedin.com/in/ana-j%C3%BAlia-batista-de-souza-a506a91b2
 [gmail]: mailto:anaju.batsouza@gmail.com
 
+## My Stats 📊
 
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=anajbsouza&show_icons=true&count_private=true&hide=stars,issues" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajbsouza&layout=compact" />
 
