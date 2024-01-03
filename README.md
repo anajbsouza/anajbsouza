@@ -2,7 +2,7 @@
 
 ## About me 😎👈
 <li>My name's Ana Júlia, I'm a Software Engineering student at Universidade de Brasília (UnB).
-<li> 💻 I'm a fullstack web developer studying at Driven Education.
+<li> 💻 I'm a fullstack web developer by Driven Education.
 <li>I really enjoy learning new things, specially if they challenge me to go out of my comfort zone!
 <li>🚀 I'm 2023 External Relations Director at Zenit Aerospace.
 
