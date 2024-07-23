@@ -1,17 +1,23 @@
-# Hey! What's up? 👋😁
+# Opa! Tudo bem? 👋😁
 
-## About me 😎👈
-<li>My name's Ana Júlia, I'm a Software Engineering student at Universidade de Brasília (UnB).
-<li> 💻 I'm a fullstack web developer by Driven Education.
-<li>I really enjoy learning new things, specially if they challenge me to go out of my comfort zone!
-<li>🚀 I'm 2023 External Relations Director at Zenit Aerospace.
+## Sobre mim 😎👈
+<li>✨ Me chamo <strong>Ana Júlia</strong>, mas pode chamar de <strong>Ana</strong> ou <strong>Anaju</strong>!
+<li>💻 Sou desenvolvedora web full stack com ênfase em React e Node
+<li>🎓 E também sou estudante de Engenharia de Software!
 
-## You can communicate with me in:
-<li>🇧🇷 Portuguese
-<li>🇺🇸 English
-<li>🇪🇸 Spanish
+## Dentro das minhas experiências proficionais, destaco:
 
-## Programming Languages and Tools:
+<li>🚀 Diretoria de Relações Externas (Zenit Aerospace)
+<li>🗺️ Desenvolvimento do Mapa da Violência (Institudo Glória)
+<li>👩‍🏫 Professora de TI (Gran Cursos Online)
+
+## Você pode se comunicar comigo em:
+<li>🇧🇷 Português
+<li>🇺🇸 Inglês
+<li>🇪🇸 Espanhol
+<li>🇩🇪 Alemão (Nível A1)
+
+## Linguagens e Ferramentas:
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
@@ -36,7 +42,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-## Contact me at:
+## Você pode me contactar em:
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][linkedin]
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)][gmail]
   
@@ -44,7 +50,7 @@
 [gmail]: mailto:anaju.batsouza@gmail.com
 
   
-## My Stats 📊
+## Minhas estatísticas 📊
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=anajbsouza&show_icons=true&count_private=true&hide=stars,issues" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajbsouza&layout=compact" />
 
