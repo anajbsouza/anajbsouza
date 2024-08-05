@@ -3,7 +3,7 @@
 ## Sobre mim 😎👈
 <li>✨ Me chamo <strong>Ana Júlia</strong>, mas pode chamar de <strong>Ana</strong> ou <strong>Anaju</strong>!
 <li>💻 Sou desenvolvedora web full stack com ênfase em React e Node
-<li>🎓 E também sou estudante de Engenharia de Software!
+<li>🎓 E também sou <strong>engenheira de software</strong> em formação!
 
 ## Dentro das minhas experiências proficionais, destaco:
 
@@ -15,7 +15,7 @@
 <li>🇧🇷 Português
 <li>🇺🇸 Inglês
 <li>🇪🇸 Espanhol
-<li>🇩🇪 Alemão (Nível A1)
+<li>🇩🇪 Alemão (Nível A1, eu desenrolo)
 
 ## Linguagens e Ferramentas:
 
