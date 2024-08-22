@@ -7,9 +7,9 @@
 
 ## Dentro das minhas experiências proficionais, destaco:
 
-<li>🚀 Diretoria de Relações Externas (Zenit Aerospace)
-<li>🗺️ Desenvolvimento do Mapa da Violência (Institudo Glória)
+<li>🗺️ Mapa da Violência (Institudo Glória)
 <li>👩‍🏫 Professora de TI (Gran Cursos Online)
+<li>🚀 Diretoria de Relações Externas (Zenit Aerospace)
 
 ## Você pode se comunicar comigo em:
 <li>🇧🇷 Português
