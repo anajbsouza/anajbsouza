@@ -5,7 +5,7 @@
 <li>💻 Sou desenvolvedora web full stack com ênfase em React e Node
 <li>🎓 E também sou <strong>engenheira de software</strong> em formação!
 
-## Dentro das minhas experiências proficionais, destaco:
+## Dentro das minhas experiências profissionais, destaco:
 
 <li>🗺️ Mapa da Violência (Institudo Glória)
 <li>👩‍🏫 Professora de TI (Gran Cursos Online)
