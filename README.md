@@ -45,9 +45,11 @@
 ## Você pode me contactar em:
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][linkedin]
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)][gmail]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
   
 [linkedin]: https://www.linkedin.com/in/ana-j%C3%BAlia-batista-de-souza-a506a91b2
 [gmail]: mailto:anaju.batsouza@gmail.com
+[instagram]: https://www.instagram.com/dev.anajbsouza/
 
   
 ## Minhas estatísticas 📊
