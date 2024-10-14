@@ -1,23 +1,23 @@
-# Opa! Tudo bem? 👋😁
+# Hey! How’s it going? 👋😁
 
-## Sobre mim 😎👈
-<li>✨ Me chamo <strong>Ana Júlia</strong>, mas pode chamar de <strong>Ana</strong> ou <strong>Anaju</strong>!
-<li>💻 Sou desenvolvedora web full stack com ênfase em React e Node
-<li>🎓 E também sou <strong>engenheira de software</strong> em formação!
+## About me 😎👈
+<li>✨ My name is <strong>Ana Júlia</strong>, but you can call me <strong>Ana</strong> or <strong>Anaju</strong>! 
+<li>💻 I’m a full stack web developer with a focus on <strong>React</strong> and <strong>Node</strong>!
+<li>🎓 I’m also a <strong>Software Engineer</strong> student!
 
-## Dentro das minhas experiências profissionais, destaco:
+## Highlights of my professional experience:
 
-<li>🗺️ Mapa da Violência (Institudo Glória)
-<li>👩‍🏫 Professora de TI (Gran Cursos Online)
-<li>🚀 Diretoria de Relações Externas (Zenit Aerospace)
+<li>🗺️ Mapa da Violência (Instituto Glória)
+<li>👩‍🏫 IT Instructor (Gran Cursos Online) 
+<li>🚀 Director of External Relations (Zenit Aerospace)
 
-## Você pode se comunicar comigo em:
-<li>🇧🇷 Português
-<li>🇺🇸 Inglês
-<li>🇪🇸 Espanhol
-<li>🇩🇪 Alemão (Nível A1, eu desenrolo)
+## You can communicate with me in:
+<li>🇧🇷 Portuguese 
+<li>🇺🇸 English 
+<li>🇪🇸 Spanish 
+<li>🇩🇪 German (A1 Level)
 
-## Linguagens e Ferramentas:
+## Languages and tools:
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
@@ -42,7 +42,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-## Você pode me contactar em:
+## Contect me at:
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)][linkedin]
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)][gmail]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
@@ -52,7 +52,7 @@
 [instagram]: https://www.instagram.com/dev.anajbsouza/
 
   
-## Minhas estatísticas 📊
+## My statistics 📊
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=anajbsouza&show_icons=true&count_private=true&hide=stars,issues" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajbsouza&layout=compact" />
 
