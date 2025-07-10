@@ -3,18 +3,6 @@
 ## About me 😎👈
 <li>✨ My name is <strong>Ana Júlia</strong>, but you can call me <strong>Ana</strong> or <strong>Anaju</strong>! 
 <li>💻 I’m a full stack web developer with a focus on <strong>React</strong> and <strong>Node</strong>!
-<li>🎓 I’m also a <strong>Systems Analysis and Development</strong> student!
-
-## Highlights of my professional experience:
-
-<li>🗺️ Full Stack Developer – Mapa da Violência (Instituto Glória)
-Built a public data platform on violence in Brazil.
-<li>🧬 Software Engineer – BeneBit (BioChallenge 2025)
-Developed a mobile app integrated with smartwatches to support elderly diabetics.
-<li>🏋️‍♀️ Frontend Developer – FitGrid
-Built UI for a fitness platform connecting trainers, nutritionists, and clients.
-<li>👩‍🏫 IT Instructor – Gran Cursos Online
-Created educational content for public IT exams (software architecture, web development).
 
 ## You can communicate with me in:
 <li>🇧🇷 Portuguese 
